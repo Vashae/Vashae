@@ -7,7 +7,7 @@ Software Developer
 Frontend-oriented engineer that comes from a Supervisory background.
 
 * 🌍  I'm based in United States
-* 🖥️  See my portfolio at vashaeblackwood.dev
+* 🖥️  See my portfolio at https://vashaeblackwood.dev/
 * ✉️  You can contact me at [vashaeb2@gmail.com](mailto:vashaeb2@gmail.com)
 
 ### Skills
